@@ -1,0 +1,3 @@
+test_group,total,COUNT(b.booked_at)
+holdout,22895,9174
+variant,22941,10136
